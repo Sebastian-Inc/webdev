@@ -1,0 +1,40 @@
+body {
+    background-color: rgb(238, 255, 249);
+}
+
+h1 {
+    font-family: monospace;
+    text-align: center;
+    background-color: teal;
+    color: white;
+
+}
+
+img {
+    width: 300px;
+    border: 1px solid lightgray;
+    padding: 15px;
+    height: 200px;
+    width: 400px;
+}
+
+.img-box {
+    text-align: center;
+    margin: 25px;
+}
+
+.stuff {
+    text-align: center;
+    background-color: teal;
+    padding: 10px;
+    margin-block: inherit;
+
+}
+
+.aud-box {
+    text-align: center;
+    margin-top: 20px;
+    background-color: rgb(113, 55, 128);
+    border-radius: 20px;
+    padding: 10px;
+}
